@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "dependencies": {
+    "jest-preset-cucumber": "file:./packages/jest-preset-cucumber"
+  },
+  "devDependencies": {
+    "lerna": "^3.0.0-rc.0"
+  }
+}

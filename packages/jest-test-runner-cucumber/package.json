@@ -1,0 +1,29 @@
+{
+  "name": "jest-test-runner-cucumber",
+  "version": "0.0.0",
+  "description": "",
+  "keywords": [
+    "jest",
+    "cucumber",
+    "gherkin",
+    "test-runner"
+  ],
+  "author": "Myroslav Kiurchev <kiurchv@gmail.com> (https://github.com/kiurchv/)",
+  "homepage": "https://github.com/kiurchv/jest-cucumber/blob/master/packages/jest-test-runner-cucumber#readme",
+  "license": "MIT",
+  "main": "lib",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": "https://github.com/kiurchv/jest-cucumber",
+  "bugs": "https://github.com/kiurchv/jest-cucumber/issues",
+  "dependencies": {
+    "cucumber": "^4.2.1",
+    "expect": "^23.4.0",
+    "fast-glob": "^2.2.2",
+    "jest-message-util": "^23.4.0"
+  }
+}

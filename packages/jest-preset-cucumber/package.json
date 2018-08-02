@@ -1,0 +1,23 @@
+{
+  "name": "jest-preset-cucumber",
+  "version": "0.0.0",
+  "description": "",
+  "keywords": [
+    "jest",
+    "cucumber",
+    "gherkin",
+    "preset"
+  ],
+  "author": "Myroslav Kiurchev <kiurchv@gmail.com> (https://github.com/kiurchv/)",
+  "homepage": "https://github.com/kiurchv/jest-cucumber/blob/master/packages/jest-preset-cucumber#readme",
+  "license": "MIT",
+  "main": "jest-preset.json",
+  "files": [
+    "jest-preset.json"
+  ],
+  "repository": "https://github.com/kiurchv/jest-cucumber",
+  "bugs": "https://github.com/kiurchv/jest-cucumber/issues",
+  "dependencies": {
+    "jest-test-runner-cucumber": "file:../jest-test-runner-cucumber"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "moduleFileExtensions": ["feature", "js", "json", "jsx", "node"],
+  "testMatch": ["**/*.feature"],
+  "testRunner": "jest-test-runner-cucumber"
+}
